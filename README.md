@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/catppuccin.svg"/>
+	<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/catppuccin.webp"/>
 </p>
 
 ## Previews
