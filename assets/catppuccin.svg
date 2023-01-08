@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 2485 1443" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="a"><path d="m1960.4 0-386.65 1443h-1573.8v-1443z"/></clipPath>
+    <clipPath id="b"><path d="m0 0v1443h1049.2l386.65-1443z"/></clipPath>
+    <clipPath id="c"><path d="m524.59 1443 386.65-1443h-911.24v1443z"/></clipPath>
+  </defs>
+  <image width="2485" height="1443" preserveAspectRatio="none" xlink:href="mocha.png"/>
+  <image width="2485" height="1443" clip-path="url(#a)" preserveAspectRatio="none" xlink:href="macchiato.png"/>
+  <image width="2485" height="1443" clip-path="url(#b)" preserveAspectRatio="none" xlink:href="frappe.png"/>
+  <image width="2485" height="1443" clip-path="url(#c)" preserveAspectRatio="none" xlink:href="latte.png"/>
+</svg>
