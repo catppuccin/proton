@@ -15,6 +15,12 @@
 	<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/catppuccin.webp"/>
 </p>
 
+## About
+
+This theme primarily focuses on theming the UI of Proton Mail. However, it should work well on all Proton products (Mail, Calendar, Drive, and VPN) as they all share the same base stylesheets.
+
+You are free to open issues if there are any style problems with other Proton products.
+
 ## Previews
 
 <details>
