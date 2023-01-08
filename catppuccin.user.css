@@ -198,21 +198,21 @@
         --interaction-norm-major-2: lighten($accent, 20%);
         --interaction-norm-major-3: lighten($accent, 10%);
         --interaction-norm-contrast: $mantle;
-        --interaction-weak-minor-2: #16151a;
-        --interaction-weak-minor-1: #25232c;
-        --interaction-weak: #4a4658;
-        --interaction-weak-major-1: #5c5969;
-        --interaction-weak-major-2: #6e6b79;
-        --interaction-weak-major-3: #807e8a;
-        --interaction-weak-contrast: #ffffff;
+        --interaction-weak-minor-2: darken($overlay0, 50%);
+        --interaction-weak-minor-1: darken($overlay0, 30%);
+        --interaction-weak: $overlay0;
+        --interaction-weak-major-1: lighten($overlay0, 10%);
+        --interaction-weak-major-2: lighten($overlay0, 20%);
+        --interaction-weak-major-3: lighten($overlay0, 30%);
+        --interaction-weak-contrast: $text;
         --text-norm: $text;
         --text-weak: $subtext0;
         --text-hint: $subtext1;
         --text-disabled: $overlay1;
         --text-invert: invert($text);
-        --field-norm: #5b576b;
-        --field-hover: #6d697d;
-        --field-disabled: #3f3b4c;
+        --field-norm: $overlay2;
+        --field-hover: $overlay1;
+        --field-disabled: $overlay0;
         --field-focus: $accent;
         --field-highlight: alpha($accent, 0.3);
         --border-norm: $overlay0;
@@ -226,8 +226,8 @@
         --shadow-norm-opacity: 0.5;
         --shadow-lifted-opacity: 0.75;
         --backdrop-norm: rgb(0 0 0 / 0.48);
-        --optional-scrollbar-thumb-color: #4a4658;
-        --optional-scrollbar-thumb-hover-color: #5b576b;
+        --optional-scrollbar-thumb-color: $surface0;
+        --optional-scrollbar-thumb-hover-color: $surface2;
         --optional-link-norm: var(--interaction-norm-major-1);
         --optional-link-hover: var(--interaction-norm-major-2);
         --optional-link-active: var(--interaction-norm-major-3);
@@ -246,12 +246,12 @@
     }
 
     .ui-prominent, .ui-standard, :root {
-        --scrollbar-thumb-color: var(--optional-scrollbar-thumb-color,hsla(0,0%,50%,.25));
-        --scrollbar-thumb-hover-color: var(--optional-scrollbar-thumb-hover-color,hsla(0,0%,50%,.5));
-        --tooltip-background-color: var(--optional-tooltip-background-color,#000);
-        --tooltip-text-color: var(--optional-tooltip-text-color,#fff);
-        --favorite-icon-color: var(--optional-favorite-icon-color,$peach);
-        --mark-background-color: var(--optional-mark-background-color,#ff0);
-        --mark-text-color: var(--optional-mark-text-color,#000);
+      --favorite-icon-color: var(--optional-favorite-icon-color,$peach);
+    }
+
+    if ($type==dark) {
+        .message-content {
+            background: #fff;
+        }
     }
 }
