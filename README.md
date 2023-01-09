@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/soya-daizu/template/catppuccin-proton"><img src="https://img.shields.io/github/stars/soya-daizu/catppuccin-proton?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/soya-daizu/template/catppuccin-proton"><img src="https://img.shields.io/github/issues/soya-daizu/catppuccin-proton?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/soya-daizu/catppuccin-proton/contributors"><img src="https://img.shields.io/github/contributors/soya-daizu/catppuccin-proton?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/proton"><img src="https://img.shields.io/github/stars/catppuccin/proton?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/proton"><img src="https://img.shields.io/github/issues/catppuccin/proton?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/proton/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/proton?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/catppuccin.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/proton/main/assets/catppuccin.webp"/>
 </p>
 
 ## About
@@ -25,26 +25,26 @@ You are free to open issues if there are any style problems with other Proton pr
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/latte.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/proton/main/assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/frappe.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/proton/main/assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/macchiato.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/proton/main/assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/soya-daizu/catppuccin-proton/main/assets/mocha.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/proton/main/assets/mocha.webp"/>
 </details>
 
 ## Usage
 
 #### Stylus
 1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
-2. [Click here to install.](https://github.com/soya-daizu/catppuccin-proton/raw/main/catppuccin.user.css)
+2. [Click here to install.](https://github.com/catppuccin/proton/raw/main/catppuccin.user.css)
 
 ## 💝 Thanks to
 
