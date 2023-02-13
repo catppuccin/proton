@@ -248,10 +248,4 @@
     .ui-prominent, .ui-standard, :root {
       --favorite-icon-color: var(--optional-favorite-icon-color,$peach);
     }
-
-    if ($type==dark) {
-        .message-content {
-            background: #fff;
-        }
-    }
 }
