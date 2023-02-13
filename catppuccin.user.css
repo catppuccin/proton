@@ -225,7 +225,7 @@
         --interaction-default-active: alpha($accent, 0.4);
         --shadow-norm-opacity: 0.5;
         --shadow-lifted-opacity: 0.75;
-        --backdrop-norm: rgb(0 0 0 / 0.48);
+        --backdrop-norm: alpha($crust, 0.5);
         --optional-scrollbar-thumb-color: $surface0;
         --optional-scrollbar-thumb-hover-color: $surface2;
         --optional-link-norm: var(--interaction-norm-major-1);
